@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/drawable/bg_color.xml" value="0.157" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/drawable/ic_baseline_add_a_photo_24.xml" value="0.157" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.157" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/drawable/three_color_curved.xml" value="0.157" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/drawable/top_curved_shape.xml" value="0.157" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/drawable/two_color_curved.xml" value="0.157" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.196875" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/layout-w936dp/activity_login.xml" value="0.1875" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/layout/activity_launcher.xml" value="0.259375" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/layout/activity_signin.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/layout/custom_dialog_layout.xml" value="0.259375" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/layout/fragment_login.xml" value="0.2359375" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/layout/nnnnnnnnnn.xml" value="0.25" />
+        <entry key="..\:/Users/Daud Hoshen Rimon/AndroidStudioProjects/GhorSara/app/src/main/res/menu/main_menu_nav_button.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

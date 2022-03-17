@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800278185805",
+    "project_id": "ghorsara-6027a",
+    "storage_bucket": "ghorsara-6027a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800278185805:android:abe0266b4fbd7a1a175904",
+        "android_client_info": {
+          "package_name": "com.daud.ghorsara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800278185805-k1ulukuqvd4q28dq47drvf8sv8q9e2st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdFrPmZwo_oeI-XHXl_6Nssm4oY-atnCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800278185805-k1ulukuqvd4q28dq47drvf8sv8q9e2st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
